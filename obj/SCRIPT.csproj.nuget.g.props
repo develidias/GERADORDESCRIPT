@@ -12,7 +12,10 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\Eliesio\.nuget\packages\" />
   </ItemGroup>
+<<<<<<< HEAD
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgDocX Condition=" '$(PkgDocX)' == '' ">C:\Users\Eliesio\.nuget\packages\docx\2.5.0</PkgDocX>
   </PropertyGroup>
+=======
+>>>>>>> 4f6ef526608ee42309ef8b59059f40ec01764b1a
 </Project>

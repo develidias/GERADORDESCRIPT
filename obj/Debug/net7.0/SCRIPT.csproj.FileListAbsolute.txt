@@ -3,10 +3,32 @@ C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\SC
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\SCRIPT.runtimeconfig.json
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\SCRIPT.dll
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\SCRIPT.pdb
+<<<<<<< HEAD
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\DocumentFormat.OpenXml.Framework.dll
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\Xceed.Document.NET5.dll
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\Xceed.Words.NET5.dll
+=======
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\ClosedXML.dll
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\ClosedXML.Parser.dll
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\ExcelNumberFormat.dll
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\RBush.dll
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\System.IO.Packaging.dll
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\SCRIPT.csproj.AssemblyReference.cache
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\SCRIPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\SCRIPT.AssemblyInfoInputs.cache
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\SCRIPT.AssemblyInfo.cs
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\SCRIPT.csproj.CoreCompileInputs.cache
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\SCRIPT.csproj.CopyComplete
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\SCRIPT.dll
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\refint\SCRIPT.dll
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\SCRIPT.pdb
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\SCRIPT.genruntimeconfig.cache
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\ref\SCRIPT.dll
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\DocumentFormat.OpenXml.Framework.dll
+>>>>>>> 4f6ef526608ee42309ef8b59059f40ec01764b1a
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\EPPlus.dll
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\EPPlus.Interfaces.dll
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\EPPlus.System.Drawing.dll
@@ -21,11 +43,15 @@ C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\Mi
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\System.Drawing.Common.dll
+<<<<<<< HEAD
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\System.IO.Packaging.dll
+=======
+>>>>>>> 4f6ef526608ee42309ef8b59059f40ec01764b1a
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+<<<<<<< HEAD
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\SCRIPT.csproj.AssemblyReference.cache
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\SCRIPT.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\SCRIPT.AssemblyInfoInputs.cache
@@ -37,3 +63,6 @@ C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\re
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\SCRIPT.pdb
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\SCRIPT.genruntimeconfig.cache
 C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\obj\Debug\net7.0\ref\SCRIPT.dll
+=======
+C:\Users\Eliesio\OneDrive\Pastas\PROGRAMACAO\PROJETOS\SCRIPT\bin\Debug\net7.0\Microsoft.Office.Interop.Excel.dll
+>>>>>>> 4f6ef526608ee42309ef8b59059f40ec01764b1a

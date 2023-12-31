@@ -40,9 +40,15 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+<<<<<<< HEAD
             "DocX": {
               "target": "Package",
               "version": "[2.5.0, )"
+=======
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.104.0-preview2, )"
+>>>>>>> 4f6ef526608ee42309ef8b59059f40ec01764b1a
             },
             "DocumentFormat.OpenXml": {
               "target": "Package",
@@ -51,6 +57,13 @@
             "EPPlus": {
               "target": "Package",
               "version": "[7.0.5, )"
+<<<<<<< HEAD
+=======
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1001, )"
+>>>>>>> 4f6ef526608ee42309ef8b59059f40ec01764b1a
             }
           },
           "imports": [
