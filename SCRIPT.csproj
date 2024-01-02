@@ -8,16 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-<<<<<<< HEAD
     <PackageReference Include="DocumentFormat.OpenXml" Version="3.0.0" />
     <PackageReference Include="DocX" Version="2.5.0" />
     <PackageReference Include="EPPlus" Version="7.0.5" />
-=======
-    <PackageReference Include="ClosedXML" Version="0.104.0-preview2" />
-    <PackageReference Include="DocumentFormat.OpenXml" Version="3.0.0" />
-    <PackageReference Include="EPPlus" Version="7.0.5" />
-    <PackageReference Include="Microsoft.Office.Interop.Excel" Version="15.0.4795.1001" />
->>>>>>> 4f6ef526608ee42309ef8b59059f40ec01764b1a
   </ItemGroup>
 
 </Project>
